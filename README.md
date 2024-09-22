@@ -137,6 +137,6 @@
 <a href="https://medium.com/@irfanghapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@irfanghapar" height="30" width="40" /></a>
 <a href="/irfanghapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="irfanghapar" height="30" width="40" /></a>
 </p>
-
+<br/>
 📫 How to reach me **irfanghapar02@gmail.com**
 
