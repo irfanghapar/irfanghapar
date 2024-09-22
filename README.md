@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Irfan</h1>
+## Hi 👋, I'm Irfan
 <h4 align="left">A developer who can design</h4>
 
 <div align="left" style="display: flex; gap: 10px;">
