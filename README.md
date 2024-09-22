@@ -8,8 +8,21 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=irfanghapar&theme=vue-dark&border_radius=1&card_width=350&sideNums=E7EAEB&background=EB545400&currStreakNum=ECECEC&ring=1DAA67&fire=FF8C39&border=3D3F4E&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/irfanghapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="irfanghapar" height="30" width="40" /></a>
+<a href="https://twitter.com/irfanghapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfanghapar" height="30" width="40" /></a>
+<a href="https://medium.com/@irfanghapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@irfanghapar" height="30" width="40" /></a>
+<a href="/irfanghapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="irfanghapar" height="30" width="40" /></a>
+</p>
 
 - 📫 How to reach me **irfanghapar02@gmail.com**
+-----
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Frontend:</h4>
