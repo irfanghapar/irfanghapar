@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Irfan</h1>
-<h5 align="left">A developer who can design</h3>
+<h4 align="left">A developer who can design</h4>
 
 <div align="left" style="display: flex; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
