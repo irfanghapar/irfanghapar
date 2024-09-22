@@ -130,7 +130,7 @@
 </p>
 
 ##
-<h4>Blogs posts</h4>
+<h3>Blogs posts</h3>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
