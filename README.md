@@ -10,14 +10,12 @@
 
 
 - 📫 How to reach me **irfanghapar02@gmail.com**
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Frontend:</h4>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> (Note: This icon may not be visible on dark backgrounds)
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -126,5 +124,3 @@
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
   </a>
 </p>
-
-
