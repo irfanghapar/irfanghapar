@@ -70,7 +70,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" width="50" height="50" style="background-color: white;"/>
+  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" width="55" height="40" style="background-color: white;"/>
 </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
