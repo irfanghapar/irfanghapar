@@ -94,8 +94,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="Jira" width="65" height="40" style="background-color: white;"/>
+  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*qflaBuTkTVttD-FY.png" alt="SonarQube" width="40" height="40" style="background-color: white;"/>
   </a>
 </p>
 
@@ -126,5 +126,7 @@
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40" style="background-color: white;"/>
   </a>
-  
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="Jira" width="65" height="40" style="background-color: white;"/>
+  </a>
 </p>
