@@ -124,9 +124,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40" style="background-color: white;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40" style="background-color: white;"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="Jira" width="65" height="40" style="background-color: white;"/>
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="Jira" width="62" height="40" style="background-color: white;"/>
   </a>
 </p>
