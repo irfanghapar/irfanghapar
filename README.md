@@ -95,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*-A0tHZ1tuR1WoGTM.png" alt="SonarQube" width="40" height="40" style="background-color: white;"/>
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*-A0tHZ1tuR1WoGTM.png" alt="SonarQube" width="70" height="40" style="background-color: white;"/>
   </a>
 </p>
 
