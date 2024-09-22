@@ -1,7 +1,12 @@
 ## Hey there, I'm Irfan 👋
 <h4 align="left">I am a software engineer in Fintech</h4>
 
-
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" style="text-decoration: none">
+    <img src="https://github-readme-stats.vercel.app/api?username=irfanghapar&show_icons=true&bg_color=EB545400&theme=vue-dark&border_radius=1.0&border_color=3D3F4E" alt="Irfan's GitHub stats" />
+  </a>
+<a href="https://git.io/streak-stats" style="text-decoration: none"><img src="https://streak-stats.demolab.com?user=irfanghapar&theme=vue-dark&border_radius=1&card_width=350&sideNums=E7EAEB&background=EB545400&currStreakNum=ECECEC&ring=1DAA67&fire=FF8C39&border=3D3F4E&hide_longest_streak=true" alt="GitHub Streak" /></a>
+</div>
 
 ## Languages and Tools
 
