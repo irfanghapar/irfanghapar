@@ -1,5 +1,5 @@
 ## Hey there, I'm Irfan 👋
-<h4 align="left">A developer who can design</h4>
+<h4 align="left">I am working as software engineer in Fintech</h4>
 
 <div align="left" style="display: flex; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
