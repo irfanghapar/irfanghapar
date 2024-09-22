@@ -69,9 +69,9 @@
   <a href="https://www.firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevtop.io%2Fen%2Fdevelopment-in-react-native%2F&psig=AOvVaw38lYNHDdZUg8WJSMs1eatu&ust=1727112627002000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC4-JaK14gDFQAAAAAdAAAAABAE" alt="reactnative" width="40" height="40" style="background-color: white;"/>
-  </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" width="40" height="40" style="background-color: white;"/>
+</a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
