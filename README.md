@@ -1,9 +1,3 @@
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-
 ## Hey there, I'm Irfan 👋
 <h4 align="left">I am a software engineer in Fintech</h4>
 
