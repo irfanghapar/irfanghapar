@@ -8,7 +8,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=irfanghapar&theme=vue-dark&border_radius=1&card_width=350&sideNums=E7EAEB&background=EB545400&currStreakNum=ECECEC&ring=1DAA67&fire=FF8C39&border=3D3F4E&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
-## <h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 
 <h4 align="left">Frontend:</h4>
 <p align="left">
@@ -129,7 +129,7 @@
   </a>
 </p>
 
-## <h3>Blogs posts</h3>
+## Blogs posts
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
