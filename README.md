@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=irfanghapar&show_icons=true&theme=github_dark&border_radius=1.0&border_color=3D3F4E" alt="Irfan's GitHub stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=irfanghapar&theme=github-dark-blue&border_radius=1.0&border_color=3D3F4E" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=irfanghapar&theme=vue-dark&border_radius=0.5&sideNums=E7EAEB&background=EB545400&currStreakNum=ECECEC&ring=1DAA67&fire=E26D17" alt="GitHub Streak" />
   </a>
 </div>
 
