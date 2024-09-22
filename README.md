@@ -95,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Jira_Logo.png" alt="Jira" width="40" height="40" style="background-color: white;"/>
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="Jira" width="40" height="40" style="background-color: white;"/>
   </a>
 </p>
 
