@@ -21,6 +21,8 @@
 | 🎨 Design | Figma, Adobe Photoshop |
 | 🤝🏻 Sync | Git, Bitbucket, AWS CodeCommit, Jira |
 
+</br>
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/>
@@ -127,9 +129,6 @@
   </a>
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40" style="background-color: white;"/>
-  </a>
-  <a href="https://aws.amazon.com/codecommit/" target="_blank" rel="noreferrer">
-    <img src="https://docs.aws.amazon.com/codecommit/latest/userguide/images/codecommit-console-icon.png" alt="AWS CodeCommit" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="Jira" width="62" height="40" style="background-color: white;"/>
