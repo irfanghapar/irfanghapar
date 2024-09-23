@@ -17,15 +17,13 @@
 | Category | Technologies |
 |----------|--------------|
 | 🔤 Languages | JavaScript, Elixir, Java, Python, TypeScript, Erlang |
-| 🖥️ Frontend | React, Vue.js, Next.js, HTML, CSS, Bootstrap, Vuetify, Tailwind CSS, Babel |
-| 🔧 Backend | Node.js, Java, Spring, Python, Elixir, Phoenix, Express.js |
-| 📱 Mobile | React Native |
+| 🖥️ Frontend | React, Vue.js, Next.js, HTML, CSS, Bootstrap, Vuetify, Tailwind CSS, Babel, React Native |
+| 🔧 Backend | Node.js, Spring Boot, Elixir, Phoenix, Express.js |
 | 🗄️ Databases | MongoDB, MySQL, PostgreSQL, Firebase |
-| ☁️ Cloud & DevOps | AWS, Docker, Kubernetes, Linux |
+| ☁️ Cloud & DevOps | AWS, Docker, Kubernetes |
 | 🧪 Testing | Selenium, Postman, SonarQube |
 | 🎨 Design | Figma, Adobe Photoshop |
-| 🛠️ Other Tools | Git, Bitbucket, Jira, VS Code |
-| 📚 Frameworks | Spring Boot, Express.js |
+| 🤝🏻 Sync | Git, Bitbucket, AWS CodeCommit, Jira |
 
 
 Icons:
