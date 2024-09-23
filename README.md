@@ -10,14 +10,18 @@
 
 ## Tech Stack 🛠️:
 
-Languages: Javascript, Elixir
-Frontend: React, Vue.js, Next.js, HTML, CSS
-Backend: Node.js, Java, Spring, Python, Elixir, Phoenix
-Databases: MongoDB, MySQL, PostgreSQL, Firebase
-Cloud & DevOps: AWS, Docker, Kubernetes
-Testing: Selenium, Postman, SonarQube
-Design:  Figma, Photoshop
-Sync: Git, Bitbucket, AWS CodeCommit, Jira, 
+## Tech Stack 🛠️
+
+| Category | Technologies |
+|----------|--------------|
+| 🔤 Languages | JavaScript, Elixir |
+| 🖥️ Frontend | React, Vue.js, Next.js, HTML, CSS |
+| 🔧 Backend | Node.js, Java, Spring, Python, Elixir, Phoenix |
+| 🗄️ Databases | MongoDB, MySQL, PostgreSQL, Firebase |
+| ☁️ Cloud & DevOps | AWS, Docker, Kubernetes |
+| 🧪 Testing | Selenium, Postman, SonarQube |
+| 🛠️ Other Tools | Git, Linux, Figma, Photoshop, Jira, Bitbucket |
+
 
 Icons:
 
