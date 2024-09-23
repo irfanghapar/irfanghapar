@@ -12,15 +12,20 @@
 
 ## Tech Stack 🛠️
 
+## Tech Stack 🛠️
+
 | Category | Technologies |
 |----------|--------------|
-| 🔤 Languages | JavaScript, Elixir |
-| 🖥️ Frontend | React, Vue.js, Next.js, HTML, CSS |
-| 🔧 Backend | Node.js, Java, Spring, Python, Elixir, Phoenix |
+| 🔤 Languages | JavaScript, Elixir, Java, Python, TypeScript, Erlang |
+| 🖥️ Frontend | React, Vue.js, Next.js, HTML, CSS, Bootstrap, Vuetify, Tailwind CSS, Babel |
+| 🔧 Backend | Node.js, Java, Spring, Python, Elixir, Phoenix, Express.js |
+| 📱 Mobile | React Native |
 | 🗄️ Databases | MongoDB, MySQL, PostgreSQL, Firebase |
-| ☁️ Cloud & DevOps | AWS, Docker, Kubernetes |
+| ☁️ Cloud & DevOps | AWS, Docker, Kubernetes, Linux |
 | 🧪 Testing | Selenium, Postman, SonarQube |
-| 🛠️ Other Tools | Git, Linux, Figma, Photoshop, Jira, Bitbucket |
+| 🎨 Design | Figma, Adobe Photoshop |
+| 🛠️ Other Tools | Git, Bitbucket, Jira, VS Code |
+| 📚 Frameworks | Spring Boot, Express.js |
 
 
 Icons:
