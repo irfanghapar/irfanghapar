@@ -81,8 +81,8 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
-  <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png" alt="phoenix" width="40" height="40"/>
+  <a href="https://cdn4.iconfinder.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/254_Phoenix_Framework_logo-512.png" alt="phoenix" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
